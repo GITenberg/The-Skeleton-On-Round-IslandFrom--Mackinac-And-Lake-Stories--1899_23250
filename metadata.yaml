@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2247
     wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23250#The-Skeleton-On-Round-IslandFrom--Mackinac-And-Lake-Stories--1899
 gutenberg_issued: '2007-10-30'
 gutenberg_type: Text
 identifiers:
