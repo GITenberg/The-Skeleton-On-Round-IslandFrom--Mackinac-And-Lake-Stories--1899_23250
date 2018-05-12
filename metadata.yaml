@@ -1,0 +1,31 @@
+_repo: The-Skeleton-On-Round-IslandFrom--Mackinac-And-Lake-Stories--1899_23250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Catherwood, Mary Hartwell
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '2247'
+    url: http://www.gutenberg.org/2009/agents/2247
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
+description: ''
+gutenberg_issued: '2007-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Michigan -- Fiction'
+- !lcsh 'Mackinac Island (Mich. : Island) -- Fiction'
+title: 'The Skeleton On Round Island
+
+  From "Mackinac And Lake Stories", 1899'
+url: http://www.gutenberg.org/ebooks/23250
